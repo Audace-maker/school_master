@@ -1,2 +1,12 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+dist/css/adminlte.min.css filter=lfs diff=lfs merge=lfs -text
+dist/css/adminlte.css filter=lfs diff=lfs merge=lfs -text
+dist/css/alt/adminlte.light.css.map filter=lfs diff=lfs merge=lfs -text
+dist/css/alt/adminlte.core.min.css.map filter=lfs diff=lfs merge=lfs -text
+dist/css/adminlte.css.map filter=lfs diff=lfs merge=lfs -text
+dist/css/alt/adminlte.light.min.css.map filter=lfs diff=lfs merge=lfs -text
+plugins/pdfmake/pdfmake.js filter=lfs diff=lfs merge=lfs -text
+plugins/pdfmake/pdfmake.js.map filter=lfs diff=lfs merge=lfs -text
+dist/css/adminlte.min.css.map filter=lfs diff=lfs merge=lfs -text
+plugins/pdfmake/pdfmake.min.js.map filter=lfs diff=lfs merge=lfs -text
